@@ -1,12 +1,20 @@
 {
-	"name": "vue-cli-plugin-vue-static-map",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [],
-	"author": "Eduardo P. Rivero <jrperedo@gmail.com> (https://blog.eperedo.com/)",
-	"license": "MIT"
+  "name": "vue-cli-plugin-vue-static-map",
+  "version": "0.0.0-development",
+  "description": "the official vue cli plugin for the vue-static-map component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "keywords": [],
+  "author": "Eduardo P. Rivero <jrperedo@gmail.com> (https://blog.eperedo.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eperedo/vue-cli-plugin-vue-static-map.git"
+  },
+  "devDependencies": {
+    "semantic-release": "^15.9.12"
+  }
 }

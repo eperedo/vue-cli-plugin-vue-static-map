@@ -18,4 +18,4 @@ vue add vue-static-map
 2. Answers to the following questions:
 
 - Your [google api key](https://developers.google.com/maps/documentation/maps-static/intro)
-- Generate a component as a example.
+- Generate an example component.
